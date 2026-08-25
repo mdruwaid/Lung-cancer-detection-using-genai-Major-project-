@@ -1,0 +1,1 @@
+# Lung-cancer-detection-using-genai-Major-project-
